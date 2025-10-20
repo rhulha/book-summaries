@@ -1,0 +1,11 @@
+CHAPTER 2 SUMMARY - PART ONE
+
+The knock at Winston's door turns out to be Mrs. Parsons, his neighbor, asking him to fix her blocked kitchen sink. Winston meets the Parsons family, who represent the ideal Party citizens:
+
+Tom Parsons: Winston's coworker at the Ministry of Truth - a loyal, stupid Party member who enthusiastically participates in all Party activities. He's described as one of the "unquestioning devoted drudges" on whom the Party depends even more than the Thought Police.
+
+The Parsons Children: A frightening 9-year-old boy and his 7-year-old sister, both members of the Spies youth organization. They act like "tiger cubs which will soon grow up into man-eaters," attacking Winston and calling him a traitor and thought-criminal. They're angry they can't attend that evening's public hanging of Eurasian prisoners. As Winston leaves, the boy shoots him painfully in the neck with a catapult. Mrs. Parsons lives in terror of her own children, who will likely denounce her to the Thought Police when they're older.
+
+Back in his flat, Winston reflects on how the Party systematically transforms children into savage loyalists who spy on and betray their own parents. He thinks again of O'Brien and a dream from seven years ago where someone (he believes it was O'Brien) said: "We shall meet in the place where there is no darkness."
+
+The telescreen announces a "victory" at the Malabar front but also announces the chocolate ration will be reduced. Winston writes a message to the future in his diary, declaring "Thoughtcrime IS death." He carefully hides the diary and sets a dust trap to detect if anyone has moved it.

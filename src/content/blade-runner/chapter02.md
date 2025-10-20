@@ -1,0 +1,11 @@
+### Summary of Chapter 2
+
+This chapter shifts focus to **John Isidore**, a resident of a vast, decaying, and almost entirely empty apartment building in a desolate, post-war San Francisco. The world is described as being ravaged by "World War Terminus," which left behind a radioactive dust that killed most animal life and made Earth largely uninhabitable. The U.N. heavily incentivizes emigration to off-world colonies like Mars, offering a free, custom-made android servant as a "carrot" and the threat of radioactive contamination and being classified as "biologically unacceptable" as the "stick."
+
+Isidore is one of the few who have remained on Earth. He is labeled a "special" due to genetic defects from the fallout. Worse, he has failed the minimum mental faculties test, earning him the derogatory label of a **"chickenhead."** Despite this social stigma, he manages to hold a job driving a delivery truck for an electric-animal repair shop.
+
+The chapter opens with Isidore being barraged by a government TV advertisement promoting emigration. Overwhelmed by the profound, oppressive silence and loneliness of his empty building (which he fears will eventually succumb to "kipple," or useless junk), he seeks solace in his **empathy box**.
+
+When he grips the handles of the box, his consciousness fuses with a messianic figure named **Wilbur Mercer** and, simultaneously, with everyone else using an empathy box at that moment. He experiences Mercer's eternal, painful ascent up a barren hill while being pelted with rocks by unseen antagonists. He feels the collective consciousness of all the other participants and even sustains a real, physical wound on his arm from a rock that strikes Mercer in the shared experience.
+
+After disconnecting from the box and tending to his bleeding arm, Isidore hears something shocking: the sound of another TV set in the building. He realizes with immense excitement that he is no longer alone—a new resident has moved in. The chapter ends with him grabbing a cube of margarine as a welcome gift and heading downstairs to meet his new neighbor, his main worry being that he must hide his "chickenhead" status to avoid being rejected.

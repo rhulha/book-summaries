@@ -1,0 +1,9 @@
+Summary of Chapter 18
+
+The chapter opens with Case watching through the simstim as Molly infiltrates 3Jane's vast, single-room apartment within Villa Straylight. Molly makes a dramatic, stylized entrance but her assault quickly fails. She confronts 3Jane, the ninja Hideo, and the corpse of Ashpool. She manages to destroy Ashpool's body with her fletcher gun and throws a grenade at Hideo, who dives into a pool, but her injured leg gives out and Hideo easily incapacitates her.
+
+Riviera appears and reveals his betrayal. He taunts the captured Molly, immobilizing her hands in a dangerous spherical device, and declares he is siding with 3Jane against Wintermute. He has no intention of helping them get the password. To demonstrate his "perversity" and cruelty, he smashes a heavy crystal glass into Molly's remaining good lens implant, blinding her.
+
+Witnessing this horror, Case jacks out. Wintermute, appearing on a screen as the Finn, informs Case and Maelcum that the original plan is a failure. He gives them a new, direct mission: they must physically enter Straylight themselves. Their objectives are to kill Riviera, get the password from 3Jane, and retrieve the key from Molly. When Case protests that they are trapped by Haniwa's grapples, Wintermute reveals a critical secret: their ship, the *Marcus Garvey*, is a tug that can detach and dock with Straylight independently.
+
+With Wintermute manipulating Straylight's security systems, Maelcum pilots the *Garvey* to a private dock. As they prepare to enter, Maelcum retrieves a powerful sawed-off shotgun, and Case gathers his deck and the Flatline construct. The chapter ends with the two of them poised to begin their desperate infiltration of the villa.

@@ -1,0 +1,26 @@
+---
+layout: base.njk
+---
+
+<article class="book">
+  <div class="book-header">
+    <h1>{{ book.title }}</h1>
+    <p class="author">by {{ book.author }}</p>
+    <p class="chapter-count">{{ book.summaries.length }} chapters</p>
+  </div>
+
+  <div class="summaries">
+    {% for summary in book.summaries %}
+    <section class="chapter" id="chapter-{{ summary.chapter }}">
+      <h2>Chapter {{ summary.chapter }}</h2>
+      <div class="chapter-content">
+        {{ summary.content | safe | nl2br }}
+      </div>
+    </section>
+    {% endfor %}
+  </div>
+
+  <nav class="chapter-nav">
+    <a href="/">← Back to Book List</a>
+  </nav>
+</article>

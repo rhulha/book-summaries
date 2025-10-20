@@ -1,0 +1,11 @@
+Of course. Here is a summary of Chapter 7 of *Do Androids Dream of Electric Sheep?*.
+
+### Summary of Chapter 7
+
+The chapter follows John Isidore, a "special" or "chickenhead" whose low IQ prevents him from emigrating off-world. He begins his day as a driver for the Van Ness Pet Hospital, a repair shop for electric animals. His first job is to pick up a malfunctioning electric cat. The cat's simulated illness is so realistic—with erratic panting and groaning—that it deeply disturbs Isidore. He tries to find its control panel to recharge it, but the workmanship is so perfect he can't locate it before the cat "dies" in his truck.
+
+On his way back to the shop, Isidore listens to the popular TV and radio personality Buster Friendly, whom he resents for subtly mocking Mercerism. He develops a theory that Buster and the spiritual figure Wilbur Mercer are fighting for control over humanity's collective soul. When he arrives at the shop, his boss, Hannibal Sloat, confirms part of his theory by revealing that Buster Friendly and his regular guests are not normal humans and are, in fact, immortal, just like Mercer is said to be.
+
+The central crisis of the chapter occurs when Mr. Sloat inspects the cat and makes a horrifying discovery: it isn't an electric fake, but a real cat, and it is now dead. Enraged, Sloat cruelly forces Isidore—who has a severe phobia of using the vidphone—to call the owner and deliver the bad news.
+
+Terrified but facing being fired, Isidore makes the call and speaks to the owner's wife, Mrs. Pilsen. After breaking the news of her cat Horace's death, Isidore has a moment of panicked inspiration and suggests replacing it with a perfect electric replica. Initially horrified, Mrs. Pilsen agrees to the plan, revealing her husband loved the cat so much he was afraid to get close to it, and she fears the truth of its death would destroy him. The chapter ends with Mr. Sloat grudgingly acknowledging that Isidore handled the difficult situation well, leaving Isidore with a rare and elating feeling of competence.

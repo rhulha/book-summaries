@@ -1,0 +1,13 @@
+Chapter 2 Summary
+
+The chapter opens with Case waking up in a luxurious Hilton suite with Molly, the "razor girl" from the previous chapter, and her mysterious employer, Armitage. Armitage is a physically imposing man with a military past, specifically with a Special Forces unit from an operation called "Screaming Fist." He reveals that they have a detailed psychological and medical profile on Case, predicting his imminent death from either suicide or organ failure.
+
+Armitage makes Case an offer: he will pay to have the neurological damage that prevents Case from accessing the matrix completely repaired. In exchange, Case must work for him. Though initially hostile and disbelieving, Case's desperation forces him to accept the terms.
+
+Case is taken to a clandestine, high-tech clinic where he undergoes the complex procedure. He wakes up days later in his "coffin" at the Cheap Hotel with Molly watching over him. She explains the extent of the surgery: not only has his nervous system been repaired, but he’s also been given a new pancreas and liver tissue. She warns him that he must wait eight days before jacking in, to allow his body to stabilize. In a crucial moment, she reveals another aspect of Armitage's control: Case has been biochemically altered to be incapable of getting high on amphetamines or cocaine, effectively cutting him off from his old drug-fueled life.
+
+Once he has recovered slightly, Case insists on settling his debts in Chiba. He pays off Wage, a local fence, with money from Armitage. Afterward, Molly takes him to Sammi's, a grim underground arena for holographic knife fights. There, Case believes he sees his ex-girlfriend, Linda Lee. He follows her into the shadows and is ambushed by an assassin sent by Wage's associates. Molly saves Case's life by killing the attacker with her fletcher gun.
+
+Case then finds Linda Lee's dead body. Molly explains that she interrogated another attacker before killing him; they had murdered Linda to steal the valuable RAM cartridge she was trying to fence for Case. It was cheaper for them to kill her than to pay for it.
+
+With his last significant tie to his old life in Chiba violently severed, Case undergoes a final post-operative checkup. The chapter concludes with him and Molly meeting Armitage and leaving Chiba on a private hovercraft, heading out over the polluted bay toward their new mission.

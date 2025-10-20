@@ -1,0 +1,13 @@
+Summary of Chapter 22
+
+Still high on an overdose of betaphenethylamine, Case arrives with Maelcum at 3Jane's "pirate cave" just as their service cart breaks down. Maelcum, though he considers this a "Babylon fight," agrees to help because he respects Molly as a fellow warrior ("Steppin' Razor"). His only question is who he should not kill; Case tells him to spare 3Jane.
+
+Upon entering the deserted pool area, they are ambushed by Hideo, the Tessier-Ashpool ninja, who shoots Maelcum in the arm with an arrow. Riviera then emerges, holding Molly's fletcher and taunting them. The standoff is interrupted by 3Jane, who appears pushing a broken and defeated-looking Molly in an ornate wheelchair.
+
+Case reveals critical information to 3Jane: he has met the other AI, Neuromancer, and describes it as a vast construct for storing personalities, like a giant RAM. When he describes the beach environment within the construct, 3Jane recognizes it as the place where her mother, Marie-France, developed her philosophy.
+
+The confrontation escalates when Riviera tries to shoot Case. Hideo swiftly disarms him by throwing the broken point of the arrow into Riviera's hand. In a furious rage, Riviera uses a hidden laser weapon in his chest to blind Hideo. However, 3Jane and Molly reveal that Hideo is just as deadly blind, as he practices this way as a form of Zen. The blinded Hideo calmly begins to hunt the terrified Riviera through the maze-like shadows.
+
+With the tables turned, Maelcum grabs the shotgun and takes 3Jane hostage. Molly then reveals her own trap: she had poisoned Riviera's drug supply with a slow-acting neurotoxin that will soon paralyze and kill him.
+
+The group—Case, the injured Maelcum carrying Molly, and their hostage 3Jane—crowd into a small elevator heading for the core of Villa Straylight. 3Jane taunts them, saying she doesn't have the key to the complex mechanical lock they need to open, but Molly confirms they have the "fucking key," referring to their icebreaker program. The chapter ends as they arrive at the axis of the spindle with only five minutes left to execute their plan.

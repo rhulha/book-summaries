@@ -1,0 +1,9 @@
+### **Summary of Chapter 4**
+
+Chapter 4 begins with Rick Deckard receiving his new, high-stakes assignment from his superior, Inspector Bryant. Bryant confirms that there are six of the new, highly intelligent Nexus-6 androids at large, and that the previous bounty hunter, Dave Holden, was seriously injured by one of them (Max Polokov) while administering the Voigt-Kampff empathy test.
+
+Instead of sending Rick directly after the fugitives, the cautious Bryant has a different plan. He is concerned that the Voigt-Kampff test may not be reliable enough to identify the advanced Nexus-6 model. He orders Rick to fly to the Rosen Association headquarters in Seattle, the company that manufactures the androids, to calibrate his test. Bryant reveals a crucial twist: the test group will secretly include humans mixed in with the androids, and Rick won't know which is which. This is to see if the test is truly accurate or if it might mistakenly identify a human as an android—a potentially fatal error that has been a growing concern for law enforcement.
+
+Upon arriving at the Rosen building, Rick is met by the sharp and sullen Rachael Rosen. On the roof, he is stunned to see the company's collection of real animals, including a raccoon and, most shockingly, a living owl—a species he believed to be extinct. The sight triggers a deep yearning in Rick for a real animal of his own and intensifies his disdain for his electric sheep.
+
+Downstairs, Rick meets Rachael's uncle, Eldon Rosen. Both Rosens are visibly nervous, fully aware that Rick's test results could ruin their company by forcing a recall of the entire Nexus-6 line. As Rick sets up his Voigt-Kampff equipment, Rachael volunteers to be the first test subject. The chapter ends on a cliffhanger as Eldon Rosen tells Rick that Rachael may, in fact, be an android, and they are counting on his test to determine the truth.

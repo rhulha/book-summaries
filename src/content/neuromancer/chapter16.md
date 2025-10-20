@@ -1,0 +1,15 @@
+Summary of Chapter 16
+
+This chapter details the complete psychological collapse of Armitage and the immediate, chaotic aftermath.
+
+The chapter opens with Case in the matrix, speaking to a completely unstable Armitage. Armitage's calm, controlled persona is gone, replaced by a "calm, perfectly focused, utterly crazy face." He asks Case if he's seen "General Girling" in the matrix, a name that means nothing to Case but signals that Wintermute's psychological manipulations are breaking down.
+
+Case then flips to simstim, experiencing Molly's infiltration of the Straylight habitat. Guided by a small, spider-like Braun drone, she navigates the high-girders of a service bay. During this tense journey, she has an internal monologue directed at the jacked-in Case, confessing her fears about the mission and admitting that he has been the only good thing to happen to her in a while. As she climbs an endless ladder toward the zero-gravity axis, a message from the Dixie Flatline construct appears in her vision, revealing the truth: Armitage is actually Colonel Corto, a mentally scarred Green Beret from a disastrous mission called Screaming Fist. Wintermute has been controlling him through a psychological construct of his traitorous commander, General Girling, and Corto is now "cracking."
+
+Case jacks out to find a panicked Maelcum, who reports that Armitage has gone insane, issuing nonsensical orders to fly to Finland and ranting about betrayal with blood on his shirt. The Zionites have ordered Maelcum to abandon the mission. When Maelcum offers to take Case with him, Case, thinking of Molly trapped inside Straylight, refuses to leave her behind. Impressed by his loyalty, Maelcum defies his orders and decides to stay, declaring, "Maelcum a rude boy... Maelcum not runnin', no."
+
+Needing the cure for the toxins in his bloodstream, Case manipulates the now fully-emerged Corto over the comms, convincing him to open the airlock to the yacht *Haniwa* under the pretense of escaping with him.
+
+Case and Maelcum board the yacht and find a scene of chaos. The ship's computer has been wiped and physically destroyed, and Corto has murdered the pilot with a crude garrote. They discover that the bridge is a locked escape pod and Corto is initiating a launch sequence. Maelcum realizes the launch is flawed—the outer hatch is open, which will cause explosive decompression.
+
+In a final, tragic transmission, Corto, now blind and delusional, speaks to Case about his duty to "testify" about the betrayal. Ignoring Case's frantic pleas, and with the sounds of his final battle playing in his helmet (courtesy of Wintermute), Corto launches the pod. The chapter ends with Case and Maelcum stranded on the crippled yacht as the lifeboat is torn apart, taking Corto—and Case's hope for a cure—with it into the void.

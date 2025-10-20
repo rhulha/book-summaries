@@ -1,0 +1,11 @@
+Summary of Chapter 12
+
+Still in the Freeside space habitat, Case reflects on his newfound and unfamiliar sense of rage. He realizes it didn't come from his past traumas—being neurologically maimed in Memphis or even Linda Lee's death—but was born in the arcade when the AI Wintermute dangled the simstim ghost of Linda before him and then cruelly snatched it away.
+
+He enters a crowded bar called Emergency, where he is found by Cath, one of the "Panther Moderns" from the Sense/Net job. High on drugs, she tries to seduce him, offering him a powerful stimulant patch called a "derm." In their conversation, she reveals crucial information: she and her friend Bruce have fallen in with a wealthy heiress, Lady 3Jane Tessier-Ashpool, whose family owns all of Freeside. 3Jane lives in the mysterious family estate, the Villa Straylight, and is protected by a formidable retainer named Hideo.
+
+Case accepts the drug from Cath. It hits him with an overwhelming physical and sensory rush that, instead of providing pleasure, amplifies his anger into a "seismic fluid." Repulsed by the intensity and his own state, he abruptly rejects Cath and stumbles out of the bar.
+
+Outside, he witnesses a stunning display: the holographic constellations in Freeside's artificial sky shift and rearrange themselves to form a vast, perfect portrait of Linda Lee's face. The entire street of tourists stops to watch in wonder. This is a clear and powerful demonstration of Wintermute's control over the environment.
+
+Case walks through Freeside until morning, letting the drug wear off. He feels numb and detached but clings to his anger as something real and his own. When he finally returns to his hotel room, he finds three people waiting for him: Lady 3Jane and two others. With a pistol resting beside her, 3Jane informs him, "Turing. You are under arrest."

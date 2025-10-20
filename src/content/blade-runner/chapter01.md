@@ -1,0 +1,9 @@
+### **Summary of Chapter 1**
+
+The chapter introduces the protagonist, Rick Deckard, and the bleak, post-apocalyptic world of 1992 San Francisco. He and his wife, Iran, begin their day by arguing over the use of their Penfield mood organs—devices that allow them to dial up specific emotions. Iran has scheduled a six-hour depression for herself, explaining that she wants to feel an "appropriate" despair for the emptiness of their world, where most of humanity has emigrated off-planet to escape the radioactive dust left over from World War Terminus.
+
+Their argument reveals Rick's profession: he is a bounty hunter who "retires" (kills) androids, or "andys," for money. Iran calls him a murderer, but Rick retorts that she has no problem spending the bounty money. His primary goal is to save enough to replace his electric sheep with a real one, as owning a living animal is the ultimate status symbol and a moral imperative in their society.
+
+After ending the argument by dialing a mood for his wife that makes her agree with him, Rick goes to the roof of his apartment building. He tends to his convincing but fake electric sheep, a source of deep shame and demoralization for him. He has a conversation with his neighbor, Bill Barbour, who proudly shows off his real, pregnant horse. The conversation highlights Rick's desperation and the social pressure surrounding animal ownership, which is tied to the society's quasi-religion, Mercerism, and the concept of empathy.
+
+Rick reveals to Barbour that his sheep is a fake, a replacement for his real one which died of tetanus. The chapter concludes with Rick heading to work, his motivation made clear: he needs the bounty money from retiring five more androids to afford the five-thousand-dollar price tag of a real animal, which he believes will restore his sense of self-worth and social standing.

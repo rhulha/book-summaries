@@ -1,0 +1,10 @@
+---
+pagination:
+  data: books
+  size: 1
+  alias: book
+permalink: "/books/{{ book.slug }}/"
+layout: book.njk
+eleventyComputed:
+  title: "{{ book.title }}"
+---

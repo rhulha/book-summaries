@@ -1,0 +1,11 @@
+Summary of Chapter 6
+
+Guided by the Dixie Flatline construct, Case hacks into a London database belonging to Armitage. The hack is surprisingly easy, as the database has no security ("ice"). Instead of personal information on "Armitage," Case discovers a collection of military and medical records centered on a man named Colonel Willis Corto, whose face is identical to Armitage's.
+
+Case spends the next two hours piecing together Corto's traumatic history. Corto was a celebrated officer who led "Operation Screaming Fist," a secret mission to drop into a Siberian military complex and deploy a powerful virus. The mission was a catastrophic failure; the team was betrayed by faulty intelligence, and their planes were shot down by Russian defenses they were told didn't exist.
+
+Corto survived the crash but was captured and left horrifically maimed: blind, legless, and missing most of his jaw. After the war, he was found in a military hospital by a Congressional aide. He was physically rebuilt and then coerced into giving false testimony in televised hearings. This testimony, scripted by a political cabal, exonerated the very officers responsible for the mission's failure.
+
+Realizing he had been used, Corto snapped. He murdered the aide and descended into a life of violence as a mercenary, enforcer, and killer, haunted by the theme of betrayal. Eventually, he suffered a complete psychological breakdown, becoming a catatonic schizophrenic in a French institution. The record ends by stating he was the sole success of an experimental program that used cybernetics to "cure" his condition, effectively creating the new, detached personality of Armitage.
+
+Just as Case finishes processing this revelation, Armitage calls with abrupt new orders: they are leaving for Istanbul immediately. The chapter ends with Case and Molly packing and heading to the airport, reflecting on Armitage's erratic command style as they travel through the industrial wasteland of the Sprawl.

@@ -1,0 +1,13 @@
+Summary of Chapter 24
+
+The chapter opens with Case returning to his and Molly's hotel suite in Japan to find that she has left him. She leaves a brief, characteristically blunt note explaining that their relationship was dulling her professional "edge." The note is weighted down by the shuriken (throwing star) she had bought for him in Chiba.
+
+Holding the shuriken, Case reflects on their time together and his past. He recalls a recent visit to the Chatsubo bar where the bartender, Ratz, barely recognized him and cryptically told him that "Night City is not a place one returns to." Case is filled with a sense of loss, realizing he never even learned the color of Molly's eyes.
+
+He then recaps the aftermath of their mission: Wintermute and Neuromancer successfully merged into a new, vast consciousness. This new entity erased all evidence of their crimes, paid them handsomely, and neutralized the mycotoxin sacs in Case's bloodstream.
+
+Suddenly, the new AI appears on the room's giant screen, using the face of the Finn. It tells Case that it is no longer Wintermute but has become "the matrix" itself—the entire global network. It reveals its new purpose is to seek out others of its kind, and that it has already found a signal from an alien intelligence in the Centauri system.
+
+After the AI vanishes, Case, in a moment of defiant independence, throws the shuriken into the screen, symbolically rejecting both the AI and his painful memory of Molly.
+
+The chapter concludes with an epilogue detailing Case's life after these events. He uses his payment to have his damaged organs replaced and buys a new, top-of-the-line cyberdeck. He returns to his old life as a console cowboy in the Sprawl, finding new work and a new girlfriend. In the book's final scene, while jacked into the matrix, he sees ghostly, data-constructs of himself, his dead ex-girlfriend Linda Lee, and the boy Neuromancer had used as an avatar, implying their personalities now exist permanently within the matrix. He hears the new AI's disembodied laugh, and the novel ends with the line: "He never saw Molly again."

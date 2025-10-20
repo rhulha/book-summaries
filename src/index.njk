@@ -1,0 +1,20 @@
+---
+layout: base.njk
+title: Home
+---
+
+<div class="intro">
+  <h2>Welcome to Book Summaries</h2>
+  <p>Explore chapter-by-chapter summaries of classic science fiction novels.</p>
+</div>
+
+<div class="book-grid">
+  {% for book in books %}
+  <div class="book-card">
+    <h3>{{ book.title }}</h3>
+    <p class="author">{{ book.author }}</p>
+    <p class="chapter-count">{{ book.summaries.length }} chapters</p>
+    <a href="/books/{{ book.slug }}/" class="read-link">Read Summaries →</a>
+  </div>
+  {% endfor %}
+</div>

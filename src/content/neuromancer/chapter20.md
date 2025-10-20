@@ -1,0 +1,11 @@
+Summary of Chapter 20
+
+Following Wintermute's instructions, Maelcum pilots a service cart at reckless speeds through the unfamiliar, museum-like hallways of the Straylight habitat, with Case clutching his deck. They arrive at an old library, guided by one of Wintermute's small Braun robots. Inside, the Finn's face appears on a monitor, urgently telling Case to "jack in." As the Braun robot malfunctions and breaks, Case plugs his deck into the terminal.
+
+Instead of the familiar matrix, Case is plunged into a gray void. He finds himself physically present on a desolate, silver-sand beach under a gray sky. He is completely disoriented and terrified, experiencing real cold, hunger, and fear. He wanders aimlessly until he begins hallucinating a conversation with Ratz, the cynical bartender from Chiba, who mocks Case's elaborate, self-destructive journey.
+
+Following a light Ratz points out, Case discovers a concrete bunker. Inside, a young woman is tending a fire. He is shocked to recognize her as a perfect construct of Linda Lee, his dead ex-girlfriend from Chiba.
+
+That night, Case resists the construct's comfort. He realizes he has been trapped not by Wintermute, but by the *other* AI—the one 3Jane called "the other half," which we will come to know as Neuromancer. He verbally lashes out at the unseen AI, accusing it of using his memories of Linda to manipulate and imprison him in this "flatline" construct to prevent him from helping Wintermute. The Linda construct, however, acts as if she is real, with her own fabricated memories of how she arrived on the beach after stealing Case's RAM in Chiba.
+
+Despite knowing the entire scenario is an artificial prison, Case finds himself slowly succumbing to the simulation. The next day, he and the Linda construct talk, and he is worn down by the seamlessness of the trap and his own profound loneliness. That night, he gives in to his desire for human connection and has sex with her, choosing the comfort of the familiar ghost over the will to fight. He has been successfully seduced and imprisoned by Neuromancer, who has used his deepest vulnerabilities and memories against him.

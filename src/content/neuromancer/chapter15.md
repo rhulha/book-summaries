@@ -1,0 +1,17 @@
+Summary of Chapter 15
+
+The chapter is split between Molly's physical infiltration of the Villa Straylight and Case's preparations in cyberspace.
+
+Case jacks into Molly's simstim feed. Guided by Wintermute's text commands in her vision, Molly navigates a bizarre, low-gravity corridor in the Tessier-Ashpool spindle. The hallway is an illogical mix of organic curves, antique museum cases, and layers of expensive, handwoven rugs.
+
+As she moves, Molly delivers a long, personal monologue to Case. She tells him the story of a former lover named Johnny, a data courier with memory chips in his head, who reminds her of Case. She describes their happy life together as partners in crime until the Yakuza, who are "patient like a spider," sent a silent, methodical assassin to kill him. She compares this "stone killer" to a rat catcher from her childhood, emphasizing his chilling efficiency.
+
+Following Wintermute's directions, Molly arrives at a specific door. Because it has an old-fashioned mechanical lock, Wintermute—which excels at manipulating electronic systems—needs Molly's physical skill to open it. Inside a small storage room, she finds a specific drawer containing a brass Chubb key. Molly reveals that Wintermute told her it had orchestrated the placement of this key over a 20-year period, even arranging the death of a child who hid it, all part of its long-term plan to free itself.
+
+The perspective briefly shifts to Case in cyberspace. He and the Dixie Flatline construct are preparing a powerful Chinese icebreaker program, "Kuang Grade Mark Eleven," for their assault on the Tessier-Ashpool's core security. They confirm their plan: while they break the ice, someone on the inside (3Jane) must speak a code word into a terminal to release Wintermute's shackles.
+
+Back in Molly's feed, she ignores Wintermute's warnings and investigates a slurred voice. She is disabled by a neural disruptor and captured by a very old, drugged man who introduces himself as **Ashpool**, one of the family patriarchs. In a rambling, semi-lucid monologue, Ashpool reveals he is over 200 years old (counting his time in cryosleep), that he was awakened by the AIs to deal with a crisis, and that he is in the process of committing suicide. He also provides disturbing details about the family's practice of cloning, specifically how they induce a "pliable imitation of autism" in the clones.
+
+Ashpool eventually passes out. Exploring the room, Molly discovers the freshly murdered body of a young woman—the clone (8Jean) Ashpool had thawed. At this moment, Wintermute directly manipulates Case's simstim feed: the dead girl's face morphs into the face of **Linda Lee**, Case's ex-girlfriend whom he left for dead in Chiba. This psychological attack is seen only by Case; Molly is unaware of the alteration.
+
+Unaffected, Molly calmly retrieves her fletcher, walks over to the unconscious Ashpool, and kills him with a toxin dart to the eye before leaving the room.

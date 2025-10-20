@@ -1,0 +1,13 @@
+Summary of Chapter 17
+
+The chapter alternates between two perspectives: Case in cyberspace and Case experiencing Molly's infiltration of Villa Straylight via simstim.
+
+In cyberspace, Case and the Dixie Flatline construct are analyzing the Tessier-Ashpool (T-A) ice. Case is deeply concerned about the toxin sacs in his bloodstream now that Armitage, the only person he knew who could remove them, is dead. Suddenly, Wintermute appears in the matrix, taking the form of the Finn. The AI confirms it killed the "Corto" personality after the Armitage persona had crumbled. It promises to give Case the code to disable the toxins after the job is done.
+
+Wintermute also reveals the complex truth behind Ashpool's death: while Molly believes she killed him, and Ashpool thought he committed suicide, it was actually 3Jane who subtly manipulated his cryogenic systems to ensure he wouldn't be revived, a plan Wintermute admits to having "hinted" at. When Case presses the AI about who will be in charge after the run, Wintermute is frustratingly vague, comparing its own compulsion to a salmon swimming upstream and stating it will become "part of something bigger." The scene ends with the Dixie Flatline construct asking for its own "payoff": to be erased.
+
+Flipping back to simstim, Case follows Molly deeper into Villa Straylight. The opulent, strange fortress is being stripped down, with walls bare to the steel and epoxy. As Molly navigates the corridors, her leg injury worsens. In a moment of vulnerability, she asks Case a favor: if she dies, he must tell Riviera that "it was Molly" who got him. She also shares what Wintermute told her about its methods—that it uses personality profiles like the Finn's as "templates" to communicate with humans.
+
+Molly then enters a bizarre, tunnel-like section of the villa, where she encounters a series of disturbing holograms created by Riviera. These include a cruel caricature of their team (Case, Molly, and Armitage), scenes of torture, and finally, a deeply personal and horrific image from Riviera's childhood: a view of feral children in the ruins of Bonn, feeding on the body of a dead soldier. Molly understands this is the key to Riviera's depraved character and the reason Wintermute chose him to seduce 3Jane.
+
+Realizing she is close to her target, Molly prepares for the final confrontation. She rips off her damaged suit, reloads her fletcher, and, after giving Case a final, intimate farewell "kiss" through the simstim link, descends into 3Jane's apartment.

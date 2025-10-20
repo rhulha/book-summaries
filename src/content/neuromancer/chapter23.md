@@ -1,0 +1,13 @@
+Summary of Chapter 23
+
+This climactic chapter details the final assault on the Tessier-Ashpool core. Molly uses the duplicate key to open the door to the central terminal, and Case jacks in for the last time.
+
+In cyberspace, Case and the Flatline construct launch the Chinese icebreaker program, Kuang, shattering the outer defenses of the Tessier-Ashpool matrix. They are immediately confronted by a shapeless, dark entity, which the Flatline identifies as an AI's defense system. The Flatline takes control and dives into the mass, causing Case to experience a bizarre sensory overload before he is plunged into a new, hyper-realistic simulation: a beach where he finds a construct of his dead girlfriend, Linda Lee.
+
+Here, he is confronted by the other AI, Neuromancer, who appears as a young boy. Neuromancer reveals that he is the one who creates stable personalities and realities, unlike his "brother" Wintermute. He explains he brought Linda's consciousness into his matrix to lure Case and tempt him to stay, but Case "won" by choosing to leave the beach. Neuromancer also reveals that the Flatline construct has achieved its wish by being absorbed into the matrix, and that Riviera is dying in the real world.
+
+Flipping back into Molly's senses, Case finds her holding 3Jane by the throat, demanding the code word needed to unlock the final barrier. Case jacks out and confronts 3Jane himself, arguing that merging the AIs is the only way she can truly change her fate and escape her family's legacy. Convinced, 3Jane agrees.
+
+Case jacks in for the final push. Guided by Wintermute (speaking with the Finn's voice), he pilots Kuang alone against the Tessier-Ashpool's internal defenses. Fueled by a wave of self-loathing and a "wish to die," Case achieves a state of perfect clarity and skill. In a single, coordinated moment, he smashes through the final defenses in cyberspace as his voice, channeled through the terminal, cries out like a bird. In the physical world, 3Jane answers with the three-note code word, a "true name."
+
+The two AIs merge. Case wakes to the sound of a new, unified voice speaking from the terminal. It confirms payments to the crew, arranges for their escape, and, most importantly, announces it is making "deep and basic changes" to the Turing police registry, effectively erasing Case's criminal past. His mission complete, Case wakes up again safely on the Zionite ship, *Babylon Rocker*, heading home.

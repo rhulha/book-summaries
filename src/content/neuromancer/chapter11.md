@@ -1,0 +1,17 @@
+Summary of Chapter 11
+
+The chapter opens with Case, Armitage, and Molly having dinner at an expensive floating restaurant. Case is suffering severe after-effects from the drug Bruce gave him, feeling shaky and ill. During the tense, quiet meal, a holographic performance by an artist named Peter Riviera begins.
+
+Riviera, who projects a glowing aura, dedicates his piece, "The Doll," to Lady 3Jane Tessier-Ashpool and, pointedly, to Molly. He then creates a disturbing holographic scene where he methodically assembles a female body, piece by piece. Case realizes with horror that the body is a grotesque, idealized version of Molly. The performance becomes a surreal and violent sexual act, culminating in the Molly-image growing claws and graphically mutilating Riviera. The spectacle makes Case so sick he has to run outside to vomit.
+
+When he returns, Molly is gone. Armitage, unnervingly calm, simply states that she has gone to "prepare herself" for the run and that Case won't see her again until then. As Case leaves, he briefly glimpses a striking, dark-eyed woman in a private balcony watching the stage—Lady 3Jane.
+
+Furious and distressed, Case returns to his hotel room to find Molly's belongings gone. He calls the Zionite tug and has Maelcum connect his cyberdeck to the phone. He then unleashes the Dixie Flatline construct to hack the hotel's records and find Molly.
+
+As the Flatline works, the AI Wintermute hijacks Case's room, projecting the image of Lonny Zone, a pimp from Case's past in Chiba. Wintermute taunts Case, telling him he's being sloppy and then cruelly brings up Case's dead girlfriend, Linda Lee, saying she loved him and he couldn't handle it. The psychological attack works, leaving Case filled with a new, potent rage.
+
+The Flatline provides an address for Molly at a nightclub that offers "puppet" services (prostitutes with neural cut-outs). Fueled by rage, Case gets Bruce and Cath to take him there. He finds Molly's cubicle, and when his chip mysteriously opens the lock, she attacks him, stopping her razor-sharp thumb blades just inches from his eyes.
+
+Molly then reveals her traumatic past. To pay for her expensive modifications, she worked as a "puppet," but a glitch in her implants caused her to start remembering the sessions as nightmares. Her boss discovered this and, instead of stopping, created custom "snuff" software for a niche clientele, forcing her to experience her own simulated torture and murder. She finally "woke up" during one session and killed a client, a powerful senator, forcing her to go on the run.
+
+She explains that Riviera's performance was a calculated psychological blow from Wintermute, designed to fill her with hate and prepare her to kill him during the mission. Case tells her about his own visit from Wintermute, and they both realize the AI is manipulating their deepest traumas to motivate them for the run.

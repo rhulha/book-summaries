@@ -1,0 +1,11 @@
+Summary of Chapter 8
+
+The chapter opens with a description of Freeside, a massive orbital station that serves as a hub for commerce, pleasure, and banking, and is home to the powerful Tessier-Ashpool clan.
+
+The team—Case, Molly, Armitage, and Riviera—travel from Paris towards orbit. On the flight, the tense group dynamic is highlighted when Molly physically warns Riviera to stop using his subliminal holographic projections on Case. Instead of heading directly to Freeside, they make a detour to Zion, a makeshift Rastafarian space colony. Case, a first-time space traveler, struggles with a severe case of Space Adaptation Syndrome (SAS).
+
+Armitage announces an 80-hour stay in Zion for the team to acclimatize to zero gravity. He briefs them on the next stage of the plan: Riviera must use his unique talents to secure an invitation to the Villa Straylight, the heavily fortified Tessier-Ashpool residence at one end of Freeside, and then help Molly infiltrate it. Meanwhile, Case is ordered to practice jacking into cyberspace to learn how to operate under the disorienting effects of SAS.
+
+During a practice run, Case speaks with the Dixie Flatline construct, who expresses his existential horror at being a "dead" consciousness that can feel no emotion and asks Case to erase him when the mission is over. Case also observes the strange culture of the Zionites, who perceive reality differently, and witnesses Riviera's disturbing and ritualistic method of injecting drugs.
+
+The chapter culminates in a secret meeting. Molly and Case are summoned by Maelcum, a Zionite, to meet the two surviving Founders of Zion. The ancient Rastafarians reveal that an entity calling itself "Wintermute" contacted them, playing them a custom "dub" track and instructing them to assist the team. They have been told to provide Maelcum and his tugboat, the *Garvey*, to transport the crew to Freeside. This is the first time Case learns the name of the Artificial Intelligence he is working for and realizes the full extent of its power to manipulate events.

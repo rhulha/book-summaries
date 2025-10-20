@@ -1,0 +1,11 @@
+Summary of Chapter 7
+
+The team—Case, Molly, and the Finn—arrives in a rainy Istanbul, Turkey. Their objective is to recruit a man named Peter Riviera. After checking into the Hilton, they meet their local contact, Terzibashjian, a shady operative who works for the Turkish military. Molly quickly intimidates him into providing all the necessary information on Riviera.
+
+They learn that Riviera is a master of holographic projection, capable of making people see his elaborate and terrifying illusions. He is also a "compulsive Judas"—a sociopath who gets sexual gratification from betraying people who love and trust him—and is addicted to a potent cocaine-and-Demerol speedball.
+
+Guided by Terzibashjian, the team sets up an ambush in an alley near the Grand Bazaar. When Riviera appears, he projects a horrific, headless monster that seems to burst from his own body, a spectacle designed to distract and terrify his attackers. While Case and the Finn are stunned by the illusion, Molly sees through the trick, ignores the monster, and captures the real Riviera. Terzibashjian is injured in the process and subsequently dismissed by Molly, who reveals he's a torturer whom Armitage easily bought.
+
+Later, Case tells Molly what he discovered in London about Colonel Corto and Screaming Fist. They deduce that the AI, Wintermute, must have built the "Armitage" personality from the broken shell of Corto after his disastrous mission. Realizing they are pawns in a massive plan, Molly urges Case to find a way to contact Wintermute directly to learn its true motives.
+
+Armitage reappears, announces their next destination is the orbital space habitat Freeside, and warns Case to stay in line. As the full team, including the newly recruited Riviera, prepares to leave from the hotel lobby, Case steps away to a payphone. It rings, and a synthetic voice on the other end says, "Wintermute, Case. It's time we talk." Terrified, Case hangs up, only for every other phone in the bank to ring once in succession as he walks past.
