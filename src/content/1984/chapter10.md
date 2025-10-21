@@ -1,5 +1,3 @@
-CHAPTER 10 SUMMARY - PART TWO
-
 Winston meets the girl (Julia) in the Golden Country - the pastoral landscape from his dreams. She leads him to a hidden clearing in the woods.
 
 Julia reveals she's had many affairs with Party members. Winston is thrilled by this corruption: "The more men you've had, the more I love you... I hate purity, I hate goodness!" Their sexual relationship is an act of rebellion against the Party.

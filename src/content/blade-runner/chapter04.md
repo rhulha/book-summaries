@@ -1,5 +1,3 @@
-### **Summary of Chapter 4**
-
 Chapter 4 begins with Rick Deckard receiving his new, high-stakes assignment from his superior, Inspector Bryant. Bryant confirms that there are six of the new, highly intelligent Nexus-6 androids at large, and that the previous bounty hunter, Dave Holden, was seriously injured by one of them (Max Polokov) while administering the Voigt-Kampff empathy test.
 
 Instead of sending Rick directly after the fugitives, the cautious Bryant has a different plan. He is concerned that the Voigt-Kampff test may not be reliable enough to identify the advanced Nexus-6 model. He orders Rick to fly to the Rosen Association headquarters in Seattle, the company that manufactures the androids, to calibrate his test. Bryant reveals a crucial twist: the test group will secretly include humans mixed in with the androids, and Rick won't know which is which. This is to see if the test is truly accurate or if it might mistakenly identify a human as an android—a potentially fatal error that has been a growing concern for law enforcement.

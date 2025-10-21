@@ -1,5 +1,3 @@
-Summary of Chapter 21
-
 Case awakens in the simulated beach bunker to the sound of faint music. The world around him is glitchy; he sees "ghost hieroglyphs" in his vision and his hand leaves afterimages, making him feel like he's on a drug. He confronts Linda Lee, asking who told her he was coming. She explains that a mysterious, thirteen-year-old boy who lives on the beach told her. Case immediately suspects this boy is the other AI from Rio.
 
 He asks Linda about a phantom city he thought he saw, and she confirms she's seen it too. She describes trying to walk to it, only to find that it never got closer. When she finally did approach, she realized the "city" was just their bunker appearing to shrink as she moved towards it. The boy had called this phenomenon an "event horizon."

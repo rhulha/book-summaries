@@ -1,5 +1,3 @@
-Summary of Chapter 5
-
 Case meets a limping Molly in Baltimore and gives her a napkin with the word "WINTERMUTE" on it, a message from the Panther Moderns. Taking this information to the Finn, they learn that Wintermute is the name of a powerful Artificial Intelligence (AI) with Swiss citizenship, built for the Tessier-Ashpool S.A. corporation. Molly reveals she paid the Moderns to find out who was backing their employer, Armitage, and the answer is this AI.
 
 The Finn then tells a long story about another fence named Smith. Smith came into possession of an ornate, talking computer terminal that was traced back to Tessier-Ashpool. A vat-grown ninja assassin, presumably sent by the corporation, politely but lethally recovered the terminal, paid for it, and had the original thief killed. A subsequent investigation by the Finn revealed that Tessier-Ashpool is an incredibly wealthy, secretive, and eccentric first-generation orbital family who own the Freeside space station. They practice extensive cloning and use cryogenics to maintain control over their corporate dynasty from their private residence, the Villa Straylight.

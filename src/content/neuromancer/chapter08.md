@@ -1,5 +1,3 @@
-Summary of Chapter 8
-
 The chapter opens with a description of Freeside, a massive orbital station that serves as a hub for commerce, pleasure, and banking, and is home to the powerful Tessier-Ashpool clan.
 
 The team—Case, Molly, Armitage, and Riviera—travel from Paris towards orbit. On the flight, the tense group dynamic is highlighted when Molly physically warns Riviera to stop using his subliminal holographic projections on Case. Instead of heading directly to Freeside, they make a detour to Zion, a makeshift Rastafarian space colony. Case, a first-time space traveler, struggles with a severe case of Space Adaptation Syndrome (SAS).

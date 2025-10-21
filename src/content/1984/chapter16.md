@@ -1,5 +1,3 @@
-CHAPTER 16 SUMMARY - PART THREE (Begins Part Three)
-
 Winston is imprisoned in the Ministry of Love - a windowless building with harsh fluorescent lights.
 
 The cell is crowded with various prisoners. Winston observes:

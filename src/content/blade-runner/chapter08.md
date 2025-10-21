@@ -1,7 +1,3 @@
-Of course. Here is a summary of Chapter 8 of *Do Androids Dream of Electric Sheep?*
-
-### **Chapter 08 Summary**
-
 Bounty hunter Rick Deckard returns to his superior Harry Bryant's office after his trip to Seattle. Bryant informs him that his first target will be Polokov, the android who injured the previous bounty hunter, Dave Holden. Polokov is cleverly disguised as a "special" (a human with mental deficiencies) working as a trash collector. Bryant also tells Rick that a Soviet police officer, Sandor Kadalyi, is arriving to observe and possibly assist him, though Rick will not have to share the bounty.
 
 Rick, preferring to work alone, immediately sets out to find Polokov. He first visits Polokov's workplace, the Bay Area Scavengers Company, but learns he didn't show up for work. Next, he goes to Polokov's grimy apartment, only to find it abandoned, confirming his fear that the android has fled.

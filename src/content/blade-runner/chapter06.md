@@ -1,7 +1,3 @@
-Based on the text you provided, here is a summary of Chapter 6 of *Do Androids Dream of Electric Sheep?*.
-
-### **Summary of Chapter 06**
-
 John Isidore, a resident of a nearly deserted apartment building, hears a television in the unit below him. Excited by the prospect of a neighbor, he knocks on the door, bringing a cube of margarine as a welcoming gift. The TV abruptly goes silent, and a terrified young woman answers. Isidore learns she thought the building was completely abandoned.
 
 As they talk, Isidore notices the woman is unfamiliar with the famous TV personality Buster Friendly. He also sees her apartment is in a state of advanced decay, which he explains with his personal theory of "kipple"—useless junk that relentlessly accumulates and takes over when unopposed. He posits that the entire universe is succumbing to "kippleization," and that the spiritual struggle of Mercerism is the only force that pushes back against this decay.

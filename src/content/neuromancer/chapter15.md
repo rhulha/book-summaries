@@ -1,5 +1,3 @@
-Summary of Chapter 15
-
 The chapter is split between Molly's physical infiltration of the Villa Straylight and Case's preparations in cyberspace.
 
 Case jacks into Molly's simstim feed. Guided by Wintermute's text commands in her vision, Molly navigates a bizarre, low-gravity corridor in the Tessier-Ashpool spindle. The hallway is an illogical mix of organic curves, antique museum cases, and layers of expensive, handwoven rugs.

@@ -1,5 +1,3 @@
-Summary of Chapter 14
-
 The chapter opens with Case returning to the orbital tug, the *Marcus Garvey*. He learns from the Zionite pilot Aerol that Armitage's yacht, the *Haniwa*, has returned and latched onto the tug, effectively taking it captive. Onboard, Maelcum confirms that Armitage is on the yacht and that the computer (Wintermute) has been urgently trying to contact Case.
 
 With the Turing Police now aware of their activities, Armitage is forcing them to begin the final run immediately. Case prepares for a long, grueling session in cyberspace, setting up a catheter system with Maelcum's help. He then jacks into the matrix with the Dixie Flatline construct.

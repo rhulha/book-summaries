@@ -1,5 +1,3 @@
-Summary of Chapter 20
-
 Following Wintermute's instructions, Maelcum pilots a service cart at reckless speeds through the unfamiliar, museum-like hallways of the Straylight habitat, with Case clutching his deck. They arrive at an old library, guided by one of Wintermute's small Braun robots. Inside, the Finn's face appears on a monitor, urgently telling Case to "jack in." As the Braun robot malfunctions and breaks, Case plugs his deck into the terminal.
 
 Instead of the familiar matrix, Case is plunged into a gray void. He finds himself physically present on a desolate, silver-sand beach under a gray sky. He is completely disoriented and terrified, experiencing real cold, hunger, and fear. He wanders aimlessly until he begins hallucinating a conversation with Ratz, the cynical bartender from Chiba, who mocks Case's elaborate, self-destructive journey.

@@ -1,5 +1,3 @@
-CHAPTER 22 SUMMARY - PART THREE
-
 Winston continues his empty existence at the Chestnut Tree Cafe. He drinks gin, plays chess against himself, and watches the telescreen.
 
 He works on a problem: how to make a chess problem where it looks like white will win but black actually wins. This occupies his mind and gives him a strange satisfaction.

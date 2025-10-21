@@ -1,5 +1,3 @@
-Summary of Chapter 24
-
 The chapter opens with Case returning to his and Molly's hotel suite in Japan to find that she has left him. She leaves a brief, characteristically blunt note explaining that their relationship was dulling her professional "edge." The note is weighted down by the shuriken (throwing star) she had bought for him in Chiba.
 
 Holding the shuriken, Case reflects on their time together and his past. He recalls a recent visit to the Chatsubo bar where the bartender, Ratz, barely recognized him and cryptically told him that "Night City is not a place one returns to." Case is filled with a sense of loss, realizing he never even learned the color of Molly's eyes.

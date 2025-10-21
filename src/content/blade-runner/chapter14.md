@@ -1,7 +1,3 @@
-Of course. Here is a summary of Chapter 14 of *Do Androids Dream of Electric Sheep?*
-
-### Summary of Chapter 14
-
 Two more androids, the imposing Roy Baty and his wife Irmgard, arrive and reunite with Pris. They bring grim news that five other members of their escaped group—Polokov, Garland, Anders, Gitchel, and Luba Luft—have been killed ("retired") by a bounty hunter, leaving only the three of them.
 
 Roy, the group's clear leader, is strangely energized by the dire situation. He devises a plan for them to hide in the dilapidated apartment building. He instructs Pris to move in with J.R. Isidore to use him as a "cover," while he and Irmgard will occupy Pris's now-vacant apartment nearby. Roy immediately begins setting up a sophisticated alarm system designed to detect an intruder and induce a state of debilitating panic.

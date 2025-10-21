@@ -1,5 +1,3 @@
-CHAPTER 21 SUMMARY - PART THREE
-
 Winston is released. He now has a sinecure job and spends his days at the Chestnut Tree Cafe, drinking gin and playing chess.
 
 He's hollow and docile. He watches the telescreen and accepts everything it says without question. He uses doublethink naturally now.

@@ -1,5 +1,3 @@
-Summary of Chapter 6
-
 Guided by the Dixie Flatline construct, Case hacks into a London database belonging to Armitage. The hack is surprisingly easy, as the database has no security ("ice"). Instead of personal information on "Armitage," Case discovers a collection of military and medical records centered on a man named Colonel Willis Corto, whose face is identical to Armitage's.
 
 Case spends the next two hours piecing together Corto's traumatic history. Corto was a celebrated officer who led "Operation Screaming Fist," a secret mission to drop into a Siberian military complex and deploy a powerful virus. The mission was a catastrophic failure; the team was betrayed by faulty intelligence, and their planes were shot down by Russian defenses they were told didn't exist.

@@ -1,5 +1,3 @@
-Summary of Chapter 12
-
 Still in the Freeside space habitat, Case reflects on his newfound and unfamiliar sense of rage. He realizes it didn't come from his past traumas—being neurologically maimed in Memphis or even Linda Lee's death—but was born in the arcade when the AI Wintermute dangled the simstim ghost of Linda before him and then cruelly snatched it away.
 
 He enters a crowded bar called Emergency, where he is found by Cath, one of the "Panther Moderns" from the Sense/Net job. High on drugs, she tries to seduce him, offering him a powerful stimulant patch called a "derm." In their conversation, she reveals crucial information: she and her friend Bruce have fallen in with a wealthy heiress, Lady 3Jane Tessier-Ashpool, whose family owns all of Freeside. 3Jane lives in the mysterious family estate, the Villa Straylight, and is protected by a formidable retainer named Hideo.

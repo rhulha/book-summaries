@@ -1,5 +1,3 @@
-CHAPTER 14 SUMMARY - PART TWO
-
 O'Brien contacts Winston at work, inviting him to his apartment under the pretext of lending him the new Newspeak dictionary.
 
 Winston and Julia visit O'Brien's luxurious Inner Party apartment. O'Brien reveals he is part of the Brotherhood (the underground resistance led by Goldstein) and that he has been watching Winston for years.

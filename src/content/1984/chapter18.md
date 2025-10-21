@@ -1,5 +1,3 @@
-CHAPTER 18 SUMMARY - PART THREE
-
 Winston's torture continues. O'Brien uses a dial that controls the intensity of electric shocks.
 
 O'Brien forces Winston to accept that 2+2=5, sometimes 3, sometimes all of them simultaneously - whatever the Party says. Winston tries to believe it to stop the pain.

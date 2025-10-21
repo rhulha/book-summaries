@@ -1,5 +1,3 @@
-CHAPTER 15 SUMMARY - PART TWO
-
 During Hate Week, in the middle of a massive rally, the enemy suddenly changes. Oceania has always been at war with Eastasia (not Eurasia). All the posters and banners with the wrong enemy must be torn down and replaced immediately.
 
 Winston and others work frantically to destroy and rewrite all records to reflect that Oceania has ALWAYS been at war with Eastasia and allied with Eurasia.

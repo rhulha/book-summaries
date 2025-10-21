@@ -1,7 +1,3 @@
-Of course. Here is a summary of Chapter 11 of *Do Androids Dream of Electric Sheep?*
-
-### Summary of Chapter 11
-
 As bounty hunter Phil Resch leaves to get the "Boneli" testing equipment, Inspector Garland reveals the truth to Rick Deckard. He confesses that not only is he an android, but the entire police station is a fake, "closed loop" organization run by a group of escaped androids. The most shocking revelation is that Phil Resch is also an android, but he doesn't know it because he was given a synthetic memory system to make him believe he is human.
 
 When Resch returns, Garland attempts to shoot him. However, Resch, with the superior reflexes of a bounty hunter, instantly reacts and kills Garland instead, blowing his head apart with a laser beam. Unaware of his own nature, Resch is relieved to have eliminated the android threat.

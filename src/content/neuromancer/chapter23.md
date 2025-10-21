@@ -1,5 +1,3 @@
-Summary of Chapter 23
-
 This climactic chapter details the final assault on the Tessier-Ashpool core. Molly uses the duplicate key to open the door to the central terminal, and Case jacks in for the last time.
 
 In cyberspace, Case and the Flatline construct launch the Chinese icebreaker program, Kuang, shattering the outer defenses of the Tessier-Ashpool matrix. They are immediately confronted by a shapeless, dark entity, which the Flatline identifies as an AI's defense system. The Flatline takes control and dives into the mass, causing Case to experience a bizarre sensory overload before he is plunged into a new, hyper-realistic simulation: a beach where he finds a construct of his dead girlfriend, Linda Lee.

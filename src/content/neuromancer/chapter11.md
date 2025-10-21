@@ -1,5 +1,3 @@
-Summary of Chapter 11
-
 The chapter opens with Case, Armitage, and Molly having dinner at an expensive floating restaurant. Case is suffering severe after-effects from the drug Bruce gave him, feeling shaky and ill. During the tense, quiet meal, a holographic performance by an artist named Peter Riviera begins.
 
 Riviera, who projects a glowing aura, dedicates his piece, "The Doll," to Lady 3Jane Tessier-Ashpool and, pointedly, to Molly. He then creates a disturbing holographic scene where he methodically assembles a female body, piece by piece. Case realizes with horror that the body is a grotesque, idealized version of Molly. The performance becomes a surreal and violent sexual act, culminating in the Molly-image growing claws and graphically mutilating Riviera. The spectacle makes Case so sick he has to run outside to vomit.

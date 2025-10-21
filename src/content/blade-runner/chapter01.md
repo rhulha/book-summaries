@@ -1,5 +1,3 @@
-### **Summary of Chapter 1**
-
 The chapter introduces the protagonist, Rick Deckard, and the bleak, post-apocalyptic world of 1992 San Francisco. He and his wife, Iran, begin their day by arguing over the use of their Penfield mood organs—devices that allow them to dial up specific emotions. Iran has scheduled a six-hour depression for herself, explaining that she wants to feel an "appropriate" despair for the emptiness of their world, where most of humanity has emigrated off-planet to escape the radioactive dust left over from World War Terminus.
 
 Their argument reveals Rick's profession: he is a bounty hunter who "retires" (kills) androids, or "andys," for money. Iran calls him a murderer, but Rick retorts that she has no problem spending the bounty money. His primary goal is to save enough to replace his electric sheep with a real one, as owning a living animal is the ultimate status symbol and a moral imperative in their society.

@@ -1,5 +1,3 @@
-CHAPTER 2 SUMMARY - PART ONE
-
 The knock at Winston's door turns out to be Mrs. Parsons, his neighbor, asking him to fix her blocked kitchen sink. Winston meets the Parsons family, who represent the ideal Party citizens:
 
 Tom Parsons: Winston's coworker at the Ministry of Truth - a loyal, stupid Party member who enthusiastically participates in all Party activities. He's described as one of the "unquestioning devoted drudges" on whom the Party depends even more than the Thought Police.

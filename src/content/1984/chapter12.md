@@ -1,5 +1,3 @@
-CHAPTER 12 SUMMARY - PART TWO
-
 Winston rents the room above Mr. Charrington's junk shop as a secret hideaway for himself and Julia. The room has no telescreen, making it seem like a sanctuary from the Party's surveillance.
 
 Mr. Charrington teaches Winston more of the "Oranges and Lemons" nursery rhyme. Winston buys the glass paperweight with coral inside - a beautiful, useless object from the past.

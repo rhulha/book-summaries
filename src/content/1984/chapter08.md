@@ -1,5 +1,3 @@
-CHAPTER 8 SUMMARY - PART ONE (Ends Part One)
-
 Winston skips the Community Centre and wanders through the prole districts - a dangerous act suggesting "ownlife" (individualism). He observes the swarming life of the proles, hoping to find truth about the past.
 
 Quest for Truth:

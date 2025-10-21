@@ -1,5 +1,3 @@
-CHAPTER 11 SUMMARY - PART TWO
-
 Winston and Julia meet rarely - once more for sex (in a church belfry), but mostly brief encounters in crowded streets, conducting fragmented conversations she calls "talking by instalments."
 
 Julia's Background:

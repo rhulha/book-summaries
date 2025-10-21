@@ -1,5 +1,3 @@
-Summary of Chapter 16
-
 This chapter details the complete psychological collapse of Armitage and the immediate, chaotic aftermath.
 
 The chapter opens with Case in the matrix, speaking to a completely unstable Armitage. Armitage's calm, controlled persona is gone, replaced by a "calm, perfectly focused, utterly crazy face." He asks Case if he's seen "General Girling" in the matrix, a name that means nothing to Case but signals that Wintermute's psychological manipulations are breaking down.

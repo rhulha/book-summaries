@@ -1,5 +1,3 @@
-Summary of Chapter 22
-
 Still high on an overdose of betaphenethylamine, Case arrives with Maelcum at 3Jane's "pirate cave" just as their service cart breaks down. Maelcum, though he considers this a "Babylon fight," agrees to help because he respects Molly as a fellow warrior ("Steppin' Razor"). His only question is who he should not kill; Case tells him to spare 3Jane.
 
 Upon entering the deserted pool area, they are ambushed by Hideo, the Tessier-Ashpool ninja, who shoots Maelcum in the arm with an arrow. Riviera then emerges, holding Molly's fletcher and taunting them. The standoff is interrupted by 3Jane, who appears pushing a broken and defeated-looking Molly in an ornate wheelchair.

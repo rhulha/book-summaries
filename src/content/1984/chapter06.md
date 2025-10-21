@@ -1,5 +1,3 @@
-CHAPTER 6 SUMMARY - PART ONE
-
 Winston writes in his diary about a sexual encounter with a prostitute three years ago. The Party's attitude toward sex is explained:
 
 The Party and Sex:

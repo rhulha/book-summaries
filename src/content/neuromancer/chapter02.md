@@ -1,5 +1,3 @@
-Chapter 2 Summary
-
 The chapter opens with Case waking up in a luxurious Hilton suite with Molly, the "razor girl" from the previous chapter, and her mysterious employer, Armitage. Armitage is a physically imposing man with a military past, specifically with a Special Forces unit from an operation called "Screaming Fist." He reveals that they have a detailed psychological and medical profile on Case, predicting his imminent death from either suicide or organ failure.
 
 Armitage makes Case an offer: he will pay to have the neurological damage that prevents Case from accessing the matrix completely repaired. In exchange, Case must work for him. Though initially hostile and disbelieving, Case's desperation forces him to accept the terms.

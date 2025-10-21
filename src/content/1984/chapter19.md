@@ -1,5 +1,3 @@
-CHAPTER 19 SUMMARY - PART THREE
-
 Winston is held in better conditions, allowed to recover somewhat. He's given food, allowed to wash, and can move around his cell.
 
 He gains back some weight and strength. He even has dreams of Julia and the Golden Country.

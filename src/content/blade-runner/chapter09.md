@@ -1,7 +1,3 @@
-Of course. Here is a summary of Chapter 9 of *Do Androids Dream of Electric Sheep?*
-
-### **Chapter 9 Summary**
-
 Rick Deckard tracks his third target, the Nexus-6 android Luba Luft, to an opera house where she is rehearsing Mozart's *The Magic Flute*. As he watches, Deckard muses on mortality and entropy, seeing himself as a "form-destroyer" who un-creates the androids that the Rosen Association builds.
 
 He confronts Luba in her dressing room to administer the Voigt-Kampff empathy test. Luba proves to be exceptionally clever and manipulative. She skillfully derails the test by feigning ignorance of basic words (like "wasp"), questioning the morality of the scenarios, and then turning the tables by accusing Deckard of being an android himself, since his job requires a lack of empathy. She demands that he take the test first to prove his own humanity.

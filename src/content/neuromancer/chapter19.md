@@ -1,5 +1,3 @@
-Summary of Chapter 19
-
 Case and Maelcum infiltrate Villa Straylight, which Case notes is a "parasitic structure" dependent on the Freeside spindle for all its resources. They climb a strange, vertical gangway from their tug, the *Marcus Garvey*, into a docking chamber. Guided by Wintermute (disguised as a Tessier-Ashpool family member on a monitor), they surprise a lone Eurasian technician. While Maelcum holds the man at gunpoint, Case follows instructions from the Finn (another of Wintermute's personas on a different screen) and jacks his cyberspace deck into the Villa's internal systems.
 
 Inside the matrix, Case meets the Flatline construct. They see that their icebreaker, the Kuang virus, is successfully shielding them from the formidable Tessier-Ashpool ICE, which appears as a "black-mirrored shark."

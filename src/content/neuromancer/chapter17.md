@@ -1,5 +1,3 @@
-Summary of Chapter 17
-
 The chapter alternates between two perspectives: Case in cyberspace and Case experiencing Molly's infiltration of Villa Straylight via simstim.
 
 In cyberspace, Case and the Dixie Flatline construct are analyzing the Tessier-Ashpool (T-A) ice. Case is deeply concerned about the toxin sacs in his bloodstream now that Armitage, the only person he knew who could remove them, is dead. Suddenly, Wintermute appears in the matrix, taking the form of the Finn. The AI confirms it killed the "Corto" personality after the Armitage persona had crumbled. It promises to give Case the code to disable the toxins after the job is done.

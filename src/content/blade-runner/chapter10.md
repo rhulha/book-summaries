@@ -1,7 +1,3 @@
-Based on the text provided, here is a summary of Chapter 10 of *Do Androids Dream of Electric Sheep?*
-
-### **Chapter 10 Summary**
-
 Rick Deckard is taken to the Mission Street Hall of Justice, a police headquarters he has never seen before, creating a profound sense of disorientation. He is booked on several serious charges, including impersonating an officer and suspected homicide, as the police don't believe his claim that the body in his car (Polokov) is an android.
 
 His confusion deepens when he is allowed to call his wife, Iran, but a strange woman he's never seen before answers his home phone. He is then interrogated by a senior official, Inspector Garland, who reveals that this police department has its own bounty hunters and is completely unaware of Rick's agency, suggesting the existence of a parallel police force.

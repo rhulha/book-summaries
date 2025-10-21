@@ -1,5 +1,3 @@
-CHAPTER 23 SUMMARY - PART THREE (Final Chapter)
-
 Winston sits in the Chestnut Tree Cafe. The telescreen announces a great victory in Africa - Oceania has won an important battle.
 
 Winston is playing chess and drinking his usual gin. He's been putting on weight and drinking more.

@@ -1,5 +1,3 @@
-### Summary of Chapter 2
-
 This chapter shifts focus to **John Isidore**, a resident of a vast, decaying, and almost entirely empty apartment building in a desolate, post-war San Francisco. The world is described as being ravaged by "World War Terminus," which left behind a radioactive dust that killed most animal life and made Earth largely uninhabitable. The U.N. heavily incentivizes emigration to off-world colonies like Mars, offering a free, custom-made android servant as a "carrot" and the threat of radioactive contamination and being classified as "biologically unacceptable" as the "stick."
 
 Isidore is one of the few who have remained on Earth. He is labeled a "special" due to genetic defects from the fallout. Worse, he has failed the minimum mental faculties test, earning him the derogatory label of a **"chickenhead."** Despite this social stigma, he manages to hold a job driving a delivery truck for an electric-animal repair shop.

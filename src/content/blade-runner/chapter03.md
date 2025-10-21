@@ -1,5 +1,3 @@
-### Summary of Chapter 3
-
 On his way to work, bounty hunter Rick Deckard stops to look at a rare and extremely expensive live ostrich in a pet shop window, highlighting his desire for a real animal. When he arrives late at the Hall of Justice, his boss, Inspector Harry Bryant, informs him that the department's top bounty hunter, Dave Holden, has been shot and hospitalized by one of the new, highly advanced Nexus-6 androids.
 
 In his office, Deckard reflects on the Nexus-6 model, whose intelligence is so sophisticated it surpasses that of some humans. He contemplates the philosophical and biological basis of empathy, concluding that it is a herd instinct unique to communal species like humans. He reasons that solitary predators, like androids, lack empathy, which allows him to frame them as "The Killers" described in his religion, Mercerism, thus justifying his job of "retiring" them.

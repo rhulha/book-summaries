@@ -1,5 +1,3 @@
-Summary of Chapter 9
-
 The chapter opens with Case, Molly, and the Zionite Maelcum aboard the tugboat-like spacecraft, the *Marcus Garvey*, on their way to the orbital station Freeside. Molly pressures Case to finally make contact with their mysterious employer in Berne. Hesitant, Case jacks into cyberspace with the Dixie Flatline construct.
 
 Case asks Dixie if he's ever tried to crack an AI. In a chilling story, Dixie recounts the very event that "flatlined" him: he once tried to penetrate a Tessier-Ashpool AI near Rio, which was represented as a dense "white cube" of ice. The attempt fried his brain instantly.

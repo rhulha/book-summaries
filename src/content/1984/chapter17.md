@@ -1,5 +1,3 @@
-CHAPTER 17 SUMMARY - PART THREE
-
 O'Brien enters Winston's cell. Winston realizes O'Brien has always been with the Thought Police, never part of the Brotherhood. "They got me a long time ago," Winston says.
 
 O'Brien takes charge of Winston's torture and "re-education." The torture is systematic and brutal, involving beatings, electroshock, and starvation.

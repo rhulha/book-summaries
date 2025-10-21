@@ -1,5 +1,3 @@
-CHAPTER 7 SUMMARY - PART ONE
-
 Winston writes in his diary: "If there is hope, it lies in the proles."
 
 The Proles (Proletariat):

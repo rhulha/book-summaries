@@ -1,5 +1,3 @@
-Summary of Chapter 4
-
 This chapter details the heist on the Sense/Net corporation to steal the construct of the legendary hacker, McCoy Pauley, also known as the "Dixie Flatline."
 
 The chapter opens with Case preparing for the mission, linking with Molly via Simstim, a technology he dislikes as a "meat toy" but is essential for the job. Through her senses, he experiences her moving through the crowded streets of the Sprawl to a software black market to finalize plans.

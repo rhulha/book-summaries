@@ -1,5 +1,3 @@
-Summary of Chapter 10
-
 Case and Molly arrive in Freeside, a massive, cylindrical space habitat. Case is immediately disoriented and disturbed by the artificial environment, with its simulated sky and curved perspective. They check into the Intercontinental hotel, but Case is haunted by the "flatline" experience where he witnessed the fake Deane's death. He struggles to sleep, tormented by recurring thoughts of Linda Lee's murder and the growing suspicion that the AI, Wintermute, is manipulating everything, possibly even having orchestrated Linda's death through the real Deane. This anxiety culminates in a vivid dream from his youth about burning a wasp nest, which in the dream is disturbingly marked with the Tessier-Ashpool (T-A) logo.
 
 The next morning, they meet with Armitage and Riviera. Armitage assigns their tasks: Molly is to train in zero-gravity at the far end of the spindle (near the T-A family habitat, Straylight), while Case is sent to the tugboat *Marcus Garvey* for an "audition."

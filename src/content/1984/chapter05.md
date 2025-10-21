@@ -1,5 +1,3 @@
-CHAPTER 5 SUMMARY - PART ONE
-
 Winston has lunch in the Ministry canteen with Syme, a philologist working on the Newspeak Dictionary. Syme explains the true purpose of Newspeak:
 
 Newspeak's Purpose:

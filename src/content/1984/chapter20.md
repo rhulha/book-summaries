@@ -1,5 +1,3 @@
-CHAPTER 20 SUMMARY - PART THREE
-
 Room 101 contains "the worst thing in the world" - which is different for each person. For Winston, it's rats.
 
 O'Brien brings in a cage containing large, starving rats. The cage is designed to be strapped to Winston's face, with a door that will open and release the rats to eat through his face.

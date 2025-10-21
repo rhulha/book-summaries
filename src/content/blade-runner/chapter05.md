@@ -1,7 +1,3 @@
-Of course. Here is a summary of Chapter 5 of *Do Androids Dream of Electric Sheep?*
-
-### Summary of Chapter 5
-
 Rick Deckard administers the Voigt-Kampff empathy test to Rachael Rosen. The test presents scenarios designed to provoke an empathic response, measured by involuntary eye and capillary reactions. Rachael's answers are a confusing mix: she shows a strong negative reaction to a calfskin wallet but a very weak one to killing a wasp. Other questions, like one involving a lobster being boiled alive, elicit the correct verbal horror but no corresponding physical reaction on the gauges, leading Deckard to believe her responses are simulated.
 
 After several questions, Deckard concludes she is an android. However, Eldon Rosen intervenes, claiming the test is flawed. He explains that Rachael is human but was raised in isolation on a spaceship, her knowledge of Earth and its social norms coming only from a limited tape library. This, he argues, has stunted her empathy, causing her to test like an android and proving the Voigt-Kampff scale is unreliable. They reveal they have the session on tape, which they can use to discredit Deckard and his entire department.

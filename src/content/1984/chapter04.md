@@ -1,5 +1,3 @@
-CHAPTER 4 SUMMARY - PART ONE
-
 This chapter provides a detailed look at Winston's job at the Ministry of Truth. He works in the Records Department, rewriting and falsifying historical records to align with the Party's current narrative.
 
 Winston's Daily Work:

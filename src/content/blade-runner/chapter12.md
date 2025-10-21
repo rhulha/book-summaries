@@ -1,7 +1,3 @@
-Of course. Here is a summary of Chapter 12 of *Do Androids Dream of Electric Sheep?*
-
-### Summary of Chapter 12
-
 Rick Deckard and Phil Resch track the android Luba Luft to a museum where she is viewing an Edvard Munch exhibit. As they search, Resch, plagued by doubt about his own identity, is deeply disturbed by Munch's painting "The Scream," remarking, "this is how an andy must feel."
 
 They find Luba absorbed by the painting "Puberty." When they confront her, she is shocked to see Rick free and immediately accuses Resch of being an android, just like her. As they escort her to the elevator, Luba asks Rick to buy her a book of Munch's art. In a surprising act of empathy, Rick buys the expensive book for her with his own money.

@@ -1,5 +1,3 @@
-Summary of Chapter 3
-
 Case wakes up in a sparse factory loft in the Sprawl (the Boston-Atlanta Metropolitan Axis), his home turf. He is with Molly, and they have been brought here by their mysterious employer, Armitage, after their time in Europe.
 
 Armitage soon appears and reveals the true nature of their arrangement. He informs Case that during his surgery, fifteen sacs of a potent mycotoxin were bonded to the lining of his major arteries. These sacs are slowly dissolving. The only way to get the antidote—an enzyme that will neutralize the sacs—is to complete the job for Armitage. If he fails or quits, the toxins will be released, returning him to the crippled state he was in before. Case is now completely dependent on Armitage.

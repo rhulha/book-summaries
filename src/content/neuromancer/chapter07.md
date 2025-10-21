@@ -1,5 +1,3 @@
-Summary of Chapter 7
-
 The team—Case, Molly, and the Finn—arrives in a rainy Istanbul, Turkey. Their objective is to recruit a man named Peter Riviera. After checking into the Hilton, they meet their local contact, Terzibashjian, a shady operative who works for the Turkish military. Molly quickly intimidates him into providing all the necessary information on Riviera.
 
 They learn that Riviera is a master of holographic projection, capable of making people see his elaborate and terrifying illusions. He is also a "compulsive Judas"—a sociopath who gets sexual gratification from betraying people who love and trust him—and is addicted to a potent cocaine-and-Demerol speedball.

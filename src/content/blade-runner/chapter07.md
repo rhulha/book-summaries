@@ -1,7 +1,3 @@
-Of course. Here is a summary of Chapter 7 of *Do Androids Dream of Electric Sheep?*.
-
-### Summary of Chapter 7
-
 The chapter follows John Isidore, a "special" or "chickenhead" whose low IQ prevents him from emigrating off-world. He begins his day as a driver for the Van Ness Pet Hospital, a repair shop for electric animals. His first job is to pick up a malfunctioning electric cat. The cat's simulated illness is so realistic—with erratic panting and groaning—that it deeply disturbs Isidore. He tries to find its control panel to recharge it, but the workmanship is so perfect he can't locate it before the cat "dies" in his truck.
 
 On his way back to the shop, Isidore listens to the popular TV and radio personality Buster Friendly, whom he resents for subtly mocking Mercerism. He develops a theory that Buster and the spiritual figure Wilbur Mercer are fighting for control over humanity's collective soul. When he arrives at the shop, his boss, Hannibal Sloat, confirms part of his theory by revealing that Buster Friendly and his regular guests are not normal humans and are, in fact, immortal, just like Mercer is said to be.
