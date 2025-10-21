@@ -65,5 +65,16 @@ export default function() {
     });
   }
 
+  const catcherPath = path.join(contentPath, 'the-catcher-in-the-rye');
+  if (fs.existsSync(catcherPath)) {
+    books.push({
+      id: 'the-catcher-in-the-rye',
+      title: 'The Catcher in the Rye',
+      author: 'J.D. Salinger',
+      slug: 'the-catcher-in-the-rye',
+      summaries: readSummaries(catcherPath, /chapter\d+\.md$/)
+    });
+  }
+
   return books;
 }
