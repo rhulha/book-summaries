@@ -14,7 +14,7 @@ layout: base.njk
     <section class="chapter" id="chapter-{{ summary.chapter }}">
       <h2>Chapter {{ summary.chapter }}</h2>
       <div class="chapter-content">
-        {{ summary.content | safe | nl2br }}
+        {{ summary.content | nl2br | safe }}
       </div>
     </section>
     {% endfor %}

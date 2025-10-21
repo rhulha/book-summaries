@@ -1,6 +1,6 @@
 # Book Summaries Website
 
-A static website built with Eleventy 3.1.2 to showcase chapter-by-chapter summaries of classic science fiction novels.
+A static website built with Eleventy to showcase chapter-by-chapter summaries of popular fiction novels.
 
 ## Books Included
 
@@ -36,28 +36,6 @@ npm run build
 
 The output will be in the `_site` directory.
 
-## Project Structure
-
-```
-BookSummariesWebSite/
-├── src/
-│   ├── _data/
-│   │   └── books.js           # Data file that reads book summaries
-│   ├── _layouts/
-│   │   ├── base.njk           # Base HTML layout
-│   │   └── book.njk           # Book page layout
-│   ├── content/               # Book summaries (markdown)
-│   │   ├── 1984/              # 1984 chapter summaries
-│   │   ├── blade-runner/      # Blade Runner chapter summaries
-│   │   └── neuromancer/       # Neuromancer chapter summaries
-│   ├── css/
-│   │   └── style.css          # Styles
-│   ├── index.njk              # Homepage
-│   └── books.njk              # Book pages (uses pagination)
-├── eleventy.config.js         # Eleventy configuration
-└── package.json
-```
-
 ## Adding New Books
 
 To add a new book:
@@ -67,9 +45,3 @@ To add a new book:
 3. Update `src/_data/books.js` to include the new book with its metadata and file pattern
 4. Rebuild the site with `npm run build`
 
-## Features
-
-- Responsive design
-- Clean, readable typography
-- Chapter-by-chapter navigation
-- Automatic generation of book pages from source files
