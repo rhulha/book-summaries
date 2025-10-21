@@ -14,7 +14,7 @@ title: Home
     <h3>{{ book.title }}</h3>
     <p class="author">{{ book.author }}</p>
     <p class="chapter-count">{{ book.summaries.length }} chapters</p>
-    <a href="/books/{{ book.slug }}/" class="read-link">Read Summaries →</a>
+    <a href="{{ ('/books/' + book.slug + '/') | url }}" class="read-link">Read Summaries →</a>
   </div>
   {% endfor %}
 </div>
