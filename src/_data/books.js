@@ -76,5 +76,16 @@ export default function() {
     });
   }
 
+  const wutheringHeightsPath = path.join(contentPath, 'wuthering-heights');
+  if (fs.existsSync(wutheringHeightsPath)) {
+    books.push({
+      id: 'wuthering-heights',
+      title: 'Wuthering Heights',
+      author: 'Emily Brontë',
+      slug: 'wuthering-heights',
+      summaries: readSummaries(wutheringHeightsPath, /chapter\d+\.md$/)
+    });
+  }
+
   return books;
 }
