@@ -1,0 +1,7 @@
+Lenina accepts Bernard Marx's invitation to visit the Savage Reservation in New Mexico, surprising everyone since Bernard is considered odd and socially inadequate. Their conversation reveals Bernard's discomfort with public displays and his unconventional attitudes.
+
+The chapter splits into two parts. In the first section, Lenina and Henry Foster take a helicopter ride over London, observing the industrialized landscape including the Slough Crematorium, where human bodies are efficiently processed to recover phosphorus. They spend an evening playing Obstacle Golf, taking soma, and attending a cabaret.
+
+The second section focuses on Bernard Marx's inner turmoil. He feels alienated from society due to his physical shortcomings and unconventional thoughts. Unlike others, he doesn't find fulfillment in casual sex, soma, and meaningless entertainment.
+
+Bernard attends a Solidarity Service, a religious ceremony dedicated to "Ford" (Henry Ford, worshipped as a god in this society). Despite the ritual designed to create communal unity through hymns, soma, and orgiastic behavior, Bernard cannot achieve the sense of belonging others experience, leaving him feeling even more isolated and miserable.

@@ -1,0 +1,7 @@
+John becomes an instant celebrity - the exotic "Savage" everyone wants to meet. Linda, however, is shunned for her repulsive appearance and her status as a "mother." She retreats into permanent soma-induced oblivion, taking massive doses that will eventually kill her. John objects, but the doctor argues she's better off on continuous soma-holiday than facing reality. Linda remains in a drugged stupor, lost in hallucinations.
+
+As John's guardian, Bernard suddenly enjoys unprecedented social success. People who once mocked him now court his favor desperately seeking invitations to meet the Savage. Bernard revels in his newfound popularity, hosting parties attended by the most important people in society.
+
+However, Bernard's success goes to his head. He becomes arrogant and boastful, particularly irritating his friend Helmholtz Watson by bragging about his sexual conquests. Helmholtz, a lecturer at the College of Emotional Engineering and gifted writer, is disappointed by Bernard's shallow response to success.
+
+John, meanwhile, is disillusioned by civilization. He's fascinated by some aspects but appalled by others. He finds Lenina attractive but is disturbed by the casual attitudes toward sex and relationships. The gulf between his Shakespearean ideals and the reality of the World State becomes increasingly apparent.

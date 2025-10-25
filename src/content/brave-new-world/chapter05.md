@@ -1,0 +1,7 @@
+The chapter is divided into two sections. The first follows Lenina and Henry as they finish their game of Obstacle Golf at sunset and fly over London. They observe the crematorium's phosphorus recovery system and discuss the efficiency of the World State. Everyone is conditioned to be happy with their caste position.
+
+They have dinner, take soma, and visit the Westminster Abbey Cabaret for entertainment featuring "sexophones" and synthetic music. The evening ends with them spending the night together - casual sex being the social norm.
+
+The second section depicts Bernard Marx attending his fortnightly Solidarity Service. Twelve people gather in a circular room for a ritualistic ceremony honoring "Ford." The service involves hymns, soma consumption ("I drink to my annihilation"), and works toward a collective ecstasy where individual identity dissolves into group unity.
+
+Despite participating in all the rituals, Bernard fails to achieve the transcendent group experience. While others claim to feel Ford's presence and achieve spiritual unity, Bernard remains trapped in his individual consciousness, unable to lose himself in the collective. He pretends to have felt it and leaves feeling even more isolated and hypocritical than before.

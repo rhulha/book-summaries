@@ -1,0 +1,7 @@
+Bernard and Lenina visit the pueblo of Malpais on the Savage Reservation. Lenina is horrified by everything she sees: the dirt, disease, old age, poverty, and lack of technology. They witness a religious ritual featuring snakes and drums that deeply unsettles her.
+
+Most shocking to both visitors is the sight of genuine old age - wrinkled, deteriorating bodies unlike anything in their world where youth is preserved until sudden death at sixty. Lenina also sees women breastfeeding their babies, a sight she finds obscene and indecent.
+
+They encounter a young man named John who speaks English (though strangely, quoting Shakespeare). John introduces them to his mother, Linda, who turns out to be from the "civilized" world. She was the woman the Director mentioned - she got lost on the Reservation twenty-five years ago while pregnant and couldn't return due to the shame of having a child.
+
+Linda has become fat, aged, and degraded, desperate for soma and unable to fit into pueblo society. John, called "the Savage," was raised on the Reservation but taught about civilization by Linda. He learned to read from a volume of Shakespeare's complete works, which shaped his romantic, passionate worldview - completely at odds with both the pueblo culture and the World State.

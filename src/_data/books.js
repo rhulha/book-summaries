@@ -92,5 +92,17 @@ export default function() {
     });
   }
 
+  const braveNewWorldPath = path.join(contentPath, 'brave-new-world');
+  if (fs.existsSync(braveNewWorldPath)) {
+    books.push({
+      id: 'brave-new-world',
+      title: 'Brave New World',
+      author: 'Aldous Huxley',
+      slug: 'brave-new-world',
+      released: 1932,
+      summaries: readSummaries(braveNewWorldPath, /chapter\d+\.md$/)
+    });
+  }
+
   return books;
 }

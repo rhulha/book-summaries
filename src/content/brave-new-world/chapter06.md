@@ -1,0 +1,7 @@
+Lenina finds Bernard increasingly odd as they prepare for their trip to the Savage Reservation in New Mexico. Bernard refuses to engage in normal social activities, preferring solitude and contemplation over crowds and entertainment. He wants to be alone with Lenina to talk, which she finds incomprehensible.
+
+During a helicopter ride over the Channel, Bernard hovers above the stormy sea and tries to share his feelings of individuality and alienation with Lenina. He expresses his desire to be "more me" and questions the conditioning that makes everyone happy. Lenina is disturbed by his blasphemous thoughts and clings to her hypnopaedic phrases like "Everybody's happy nowadays."
+
+Before leaving for New Mexico, Bernard visits the Director to get his signature on the permit. The Director unexpectedly shares a personal story about visiting the Savage Reservation twenty-five years earlier with a woman who disappeared during a storm and was never found. He becomes emotional, then embarrassed by this display of feeling.
+
+Bernard and Lenina arrive at the Savage Reservation, a fenced area where "primitive" humans live without World State technology. The contrast shocks and disgusts them both, setting up the encounter that will change their lives.
