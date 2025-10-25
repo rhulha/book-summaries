@@ -39,6 +39,7 @@ export default function() {
       title: '1984',
       author: 'George Orwell',
       slug: '1984',
+      released: 1949,
       summaries: readSummaries(book1984Path, /chapter\d+\.md$/)
     });
   }
@@ -50,6 +51,7 @@ export default function() {
       title: 'Do Androids Dream of Electric Sheep?',
       author: 'Philip K. Dick',
       slug: 'blade-runner',
+      released: 1968,
       summaries: readSummaries(bladeRunnerPath, /chapter\d+\.md$/)
     });
   }
@@ -61,6 +63,7 @@ export default function() {
       title: 'Neuromancer',
       author: 'William Gibson',
       slug: 'neuromancer',
+      released: 1984,
       summaries: readSummaries(neuromancerPath, /chapter\d+\.md$/)
     });
   }
@@ -72,6 +75,7 @@ export default function() {
       title: 'The Catcher in the Rye',
       author: 'J.D. Salinger',
       slug: 'the-catcher-in-the-rye',
+      released: 1951,
       summaries: readSummaries(catcherPath, /chapter\d+\.md$/)
     });
   }
@@ -83,6 +87,7 @@ export default function() {
       title: 'Wuthering Heights',
       author: 'Emily Brontë',
       slug: 'wuthering-heights',
+      released: 1847,
       summaries: readSummaries(wutheringHeightsPath, /chapter\d+\.md$/)
     });
   }
