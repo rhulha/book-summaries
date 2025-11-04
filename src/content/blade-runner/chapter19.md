@@ -1,0 +1,11 @@
+The chapter opens in J.R. Isidore's apartment, where he and the three remaining androids—Roy Baty, Irmgard Baty, and Pris Stratton—are hiding in darkness, aware that a bounty hunter is near. The terrified androids order Isidore to go to the door and lie to protect them.
+
+Instead, Isidore goes outside to release the spider Mercer had given him, setting it free in a patch of weeds so Pris cannot harm it again. There, he is confronted by the bounty hunter, Rick Deckard. Isidore is surprised to find Deckard is an ordinary, tired-looking man, not the imposing figure he expected. Isidore refuses to help Deckard, arguing that killing the androids will cut Deckard off from the empathy of Mercerism. Deckard, recognizing Isidore as a "special," ignores his pleas and enters the building alone.
+
+The perspective shifts to Deckard. As he uses his equipment to locate the androids, he is suddenly met by the mysterious figure of Mercer. Mercer warns him that the most dangerous of the three androids, Pris, is waiting to ambush him on the stairs below.
+
+Warned, Deckard turns and confronts Pris, who is a perfect replica of Rachael Rosen. For a moment, he hesitates, but realizing the Rosen Corporation can send an endless stream of "Rachaels" to stop him, he fires and retires her. He understands that Mercer's divine intervention just saved his life.
+
+Now resolute, Deckard proceeds to the apartment. He tricks his way inside by imitating Isidore's voice and stammer. Roy Baty immediately fires a laser beam at him and misses. Deckard explains that by attacking a police officer, they have forfeited any legal right to a test. He quickly shoots and kills Irmgard Baty. Hearing Roy's cry of anguish, Deckard then retires him as well.
+
+The mission is complete. Exhausted, Deckard sits in the silent apartment until Isidore enters. Isidore is devastated and crying, having seen the destroyed body of Pris on the stairs. Ignoring Isidore's grief, a numb and weary Deckard finds the phone to call his boss, Harry Bryant, and report his success.

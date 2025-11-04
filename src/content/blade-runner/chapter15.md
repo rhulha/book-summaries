@@ -1,0 +1,11 @@
+The chapter opens in John Isidore's apartment, where the three remaining androids—Roy, Irmgard, and Pris—are voting on their next move. Roy votes to kill Isidore and flee, fearing he is a liability. However, Pris and Irmgard outvote him, deciding to stay and use Isidore as cover. They argue their "superior intelligence" has been their downfall, and hiding in plain sight with a "special" human might be safer. Isidore, oblivious to the danger, is happy to help them.
+
+Meanwhile, Rick Deckard, suffering from a profound depression and moral crisis after his encounter with fellow bounty hunter Phil Resch, uses his bounty money to buy a real animal. He spends his entire $3,000 as a down payment on an expensive black Nubian goat, hoping the purchase will restore his faith in himself and his work.
+
+When he shows the goat to his wife, Iran, she is ecstatic, and her own depression is instantly cured. Overjoyed, she insists they immediately use their empathy box to fuse with Mercer and share their happiness with the collective consciousness. Rick is hesitant, fearing they will lose their private joy, but Iran convinces him it's a moral duty.
+
+Down in their apartment, as Iran prepares to fuse, the vidphone rings. It is Inspector Bryant, who informs Rick that the remaining androids have been located at Isidore's apartment building. Bryant orders Rick to "retire" them that night. The financial burden of the new goat now makes refusing the job impossible.
+
+Feeling desperate and alone, Rick takes the empathy box handles himself. He has a direct vision of Mercer, who offers no salvation, only a bleak message: it is the "basic condition of life" to be required to violate one's own identity, and Rick must do his task even though he knows it is wrong. A rock then strikes Rick in the vision, and he lets go, bleeding from his ear in the real world.
+
+Knowing he cannot face the three advanced Nexus-6 androids alone in his current state, Rick makes a final, desperate call to Rachael Rosen. After she initially refuses to help, he makes a strange proposition: he will abandon the hunt for the night if she flies to San Francisco to meet him at a hotel. She agrees, and Rick heads downtown, postponing his deadly assignment.

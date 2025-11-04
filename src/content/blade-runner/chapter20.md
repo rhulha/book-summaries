@@ -1,0 +1,5 @@
+After killing the last of the Nexus-6 androids, Rick Deckard speaks briefly with his boss, Harry Bryant, and then dismisses the horrified J.R. Isidore, who wants nothing to do with him. Overcome with self-loathing, Rick sees himself as a "scourge, like famine or plague," and feels that everything he has done is wrong, echoing the teachings of Mercer.
+
+He returns home to find his wife, Iran, waiting for him on the roof with devastating news: his new goat is dead. Iran explains that she witnessed a young woman, whom Rick immediately identifies as Rachael Rosen, deliberately push the animal off the roof. Rick understands this was a calculated act of revenge for his having continued his job after sleeping with her.
+
+When Iran mentions a TV report claiming Mercer is a fake, a spiritually and emotionally shattered Rick gives a bleak, nihilistic response: "Everything is true." Believing he is going to die, he gets into his hovercar and, ignoring Iran's pleas, flies away from the city, heading north toward the uninhabited, desolate wasteland.
