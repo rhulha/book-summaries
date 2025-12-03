@@ -116,5 +116,17 @@ export default function() {
     });
   }
 
+  const hyperionPath = path.join(contentPath, 'hyperion');
+  if (fs.existsSync(hyperionPath)) {
+    books.push({
+      id: 'hyperion',
+      title: 'Hyperion',
+      author: 'Dan Simmons',
+      slug: 'hyperion',
+      released: 1989,
+      summaries: readSummaries(hyperionPath, /chapter\d+\.md$/)
+    });
+  }
+
   return books;
 }
