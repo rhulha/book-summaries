@@ -128,5 +128,17 @@ export default function() {
     });
   }
 
+  const ulyssesPath = path.join(contentPath, 'ulysses');
+  if (fs.existsSync(ulyssesPath)) {
+    books.push({
+      id: 'ulysses',
+      title: 'Ulysses',
+      author: 'James Joyce',
+      slug: 'ulysses',
+      released: 1922,
+      summaries: readSummaries(ulyssesPath, /chapter\d+\.md$/)
+    });
+  }
+
   return books;
 }
