@@ -104,5 +104,17 @@ export default function() {
     });
   }
 
+  const greatGatsbyPath = path.join(contentPath, 'the-great-gatsby');
+  if (fs.existsSync(greatGatsbyPath)) {
+    books.push({
+      id: 'the-great-gatsby',
+      title: 'The Great Gatsby',
+      author: 'F. Scott Fitzgerald',
+      slug: 'the-great-gatsby',
+      released: 1925,
+      summaries: readSummaries(greatGatsbyPath, /chapter\d+\.md$/)
+    });
+  }
+
   return books;
 }
