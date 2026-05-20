@@ -1,0 +1,1 @@
+A brief, sardonic addendum to the defence of whaling: sperm oil is used to anoint monarchs at their coronations, from British kings to foreign potentates. Whalers therefore supply the sacred oil that consecrates royalty. Ishmael notes this with dry satisfaction and leaves the moral to the reader.

@@ -1,0 +1,1 @@
+Ishmael strolls the streets of New Bedford and marvels at the exotic crowd: cannibals, Fijians, Malays, and green country boys come to seek their fortune in the whale-fishery. He reflects on the astonishing wealth whaling has brought to the town — grand mansions, opulent gardens, all "harpooned and dragged up from the bottom of the sea."

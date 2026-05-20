@@ -1,0 +1,1 @@
+Stubb's brief soliloquy, a counterpoint to Starbuck's anguish. He resolves the whole matter with a laugh: "A laugh's the wisest, easiest answer to all that's queer." He will think of nothing, whistle, and let things fall as they will. The three soliloquies of Ahab, Starbuck, and Stubb form a triptych of responses to catastrophe — pride, grief, and resignation.

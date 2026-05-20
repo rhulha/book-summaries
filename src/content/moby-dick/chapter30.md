@@ -1,0 +1,1 @@
+A very short chapter. After Stubb leaves, Ahab lights his pipe and settles into his chair. But the smoke gives him no pleasure — his agitated mind cannot be calmed by it. He looks at the pipe for a moment, then hurls it into the sea. It is a small, telling act: he has passed beyond the reach of ordinary comfort.

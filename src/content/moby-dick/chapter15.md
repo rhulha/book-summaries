@@ -1,0 +1,1 @@
+Ishmael and Queequeg arrive in Nantucket and find lodging at the Try Pots inn, run by the brisk Mrs. Hussey. The house is obsessed with fish — chowder for every meal, clam-shell paving, cod-vertebra necklace. They eat magnificent clam chowder, then cod chowder. At bedtime Mrs. Hussey confiscates Queequeg's harpoon, citing a previous boarder who killed himself with his.

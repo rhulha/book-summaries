@@ -1,0 +1,1 @@
+Ahab alone at the stern windows as the sun goes down. He delivers a soliloquy of iron resolve mixed with a sense of doom: he feels himself cursed, driven by some power beyond his will, yet accepts this with fierce pride. "The path to my fixed purpose is laid with iron rails, whereon my soul is grooved to run." He acknowledges he is damned and keeps going anyway.

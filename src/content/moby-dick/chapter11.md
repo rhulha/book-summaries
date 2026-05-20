@@ -1,0 +1,1 @@
+Ishmael and Queequeg lie awake in the dark, chatting contentedly. Ishmael meditates on the pleasure of warmth-by-contrast: you can only truly feel warm when some small part of you is cold. Queequeg smokes his tomahawk-pipe between them. He begins, in his broken English, to tell Ishmael his history.

@@ -1,0 +1,1 @@
+Father Mapple arrives at the chapel — a vigorous old man who was once a sailor and harpooneer. He dramatically climbs the ship-prow-shaped pulpit by a rope ladder, then hauls the ladder up behind him, sealing himself off from the world. Ishmael reads this as a symbol of spiritual self-isolation required for true preaching.

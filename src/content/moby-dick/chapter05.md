@@ -1,0 +1,1 @@
+The bar-room fills with whalemen of every description. At breakfast they sit in bashful silence — brave men who have faced whales on the open sea, now sheepish at a social table. The exception is Queequeg, who sits at the head, entirely at ease, using his harpoon to spear beefsteaks and pull them toward him.

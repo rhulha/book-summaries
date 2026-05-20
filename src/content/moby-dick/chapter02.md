@@ -1,0 +1,1 @@
+Ishmael arrives in New Bedford on a bitter December Saturday night. The packet to Nantucket has already sailed; he must wait until Monday. With little money and knowing no one, he wanders the dark, freezing streets looking for cheap lodging. He passes two expensive inns and stumbles into a Black church before finding the dim, shabby Spouter-Inn, kept by a man named Peter Coffin.

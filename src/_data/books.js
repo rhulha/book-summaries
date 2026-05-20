@@ -140,5 +140,17 @@ export default function() {
     });
   }
 
+  const mobyDickPath = path.join(contentPath, 'moby-dick');
+  if (fs.existsSync(mobyDickPath)) {
+    books.push({
+      id: 'moby-dick',
+      title: 'Moby-Dick',
+      author: 'Herman Melville',
+      slug: 'moby-dick',
+      released: 1851,
+      summaries: readSummaries(mobyDickPath, /chapter\d+\.md$/)
+    });
+  }
+
   return books;
 }

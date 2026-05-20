@@ -1,0 +1,1 @@
+A lyrical tribute to the island: a mere sandbar, treeless, almost waterless, yet home to men who conquered the world's oceans. The Nantucketers are framed as latter-day Alexanders who have parcelled out the Atlantic, Pacific, and Indian Oceans among themselves. The sea is theirs; they alone truly live on it.
